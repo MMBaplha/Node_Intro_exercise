@@ -1,0 +1,16 @@
+{
+  "name": "node_intro",
+  "version": "1.0.0",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Node_Intro_exercise"
+  },
+  "author": "Mardo",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
