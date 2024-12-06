@@ -12,5 +12,8 @@
   "author": "Mardo",
   "license": "ISC",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
 }
